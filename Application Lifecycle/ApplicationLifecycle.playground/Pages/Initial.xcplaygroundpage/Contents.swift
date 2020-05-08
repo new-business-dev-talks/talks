@@ -10,7 +10,7 @@
  */
 
 func viewDidLoad() {
-    print("Are you there?")
+    print("Are you here?")
 }
 /*:
  ****
