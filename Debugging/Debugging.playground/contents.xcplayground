@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Intro'/>
+        <page name='Ferramentas'/>
+        <page name='Breakpoint'/>
+        <page name='Medidores'/>
+        <page name='Console'/>
+        <page name='Referências'/>
+    </pages>
+</playground>
