@@ -22,12 +22,12 @@ class ViewController: UIViewController {
         view.addSubview(label)
         self.view = view
 
-        exceptionBreakpoint()
+//        exceptionBreakpoint()
 //        poBreakpoint()
 //        conditionBreakpoint()
 //        ignoresBreakpoint()
 //        continueBreakpoint()
-//        expressionBreakpoint()
+        expressionBreakpoint()
 //        imageBreakpoint()
     }
 
