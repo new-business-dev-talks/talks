@@ -27,6 +27,7 @@ import Ítalo.Sangar
 
 • Foundation
 • Protocol (POP)
+• MVVM
 ```
 
 ```swift
